@@ -1,10 +1,22 @@
-[index.html9.txt](https://github.com/user-attachments/files/24970861/index.html9.txt)
-[index.html8.txt](https://github.com/user-attachments/files/24970860/index.html8.txt)
-[index.html7.txt](https://github.com/user-attachments/files/24970859/index.html7.txt)
-[index.html5.txt](https://github.com/user-attachments/files/24970858/index.html5.txt)
-[index.html3.txt](https://github.com/user-attachments/files/24970857/index.html3.txt)
-[index.html2.txt](https://github.com/user-attachments/files/24970856/index.html2.txt)
-[index.html.txt](https://github.com/user-attachments/files/24970855/index.html.txt)
-[index.hmtl11.txt](https://github.com/user-attachments/files/24970854/index.hmtl11.txt)
-[index.hmtl10.txt](https://github.com/user-attachments/files/24970853/index.hmtl10.txt)
-[index.hmtl6.txt](https://github.com/user-attachments/files/24970852/index.hmtl6.txt)
+spotify-clone/
+├── client/            # React front-end
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Sidebar.jsx
+│   │   │   ├── SongCard.jsx
+│   │   ├── pages/
+│   │   │   ├── Home.jsx
+│   │   │   ├── Search.jsx
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── index.jsx
+│   └── package.json
+├── server/            # Node.js back-end
+│   ├── data/
+│   │   └── songs.json
+│   ├── index.js
+│   └── package.json
+└── README.md
+
